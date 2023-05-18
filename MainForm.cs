@@ -2,11 +2,11 @@ using System.Diagnostics;
 
 namespace Application_Signer
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         bool canClose = true;
 
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             this.Size = new Size(451, 289);
