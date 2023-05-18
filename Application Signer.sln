@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application Signer", "Application Signer.csproj", "{A33EA3D7-B9D7-4269-9D1C-37E65E912B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A33EA3D7-B9D7-4269-9D1C-37E65E912B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33EA3D7-B9D7-4269-9D1C-37E65E912B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33EA3D7-B9D7-4269-9D1C-37E65E912B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33EA3D7-B9D7-4269-9D1C-37E65E912B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47208C0-7FB6-4CF3-BFE4-9A184896F7F2}
+	EndGlobalSection
+EndGlobal
